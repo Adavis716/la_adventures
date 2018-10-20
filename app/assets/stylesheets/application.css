@@ -23,6 +23,9 @@ table,td,th {
  vertical-align: middle;
  border: none;
 }
+a {
+  color: #f00 !important;
+}
 
 th {
  border-bottom: 1px solid #DDD;
@@ -32,4 +35,7 @@ footer {
  margin-top: 100px;
  text-align: center;
  color: #999;
+}
+h1 {
+  font-family: 'UnifrakturMaguntia', cursive;
 }
